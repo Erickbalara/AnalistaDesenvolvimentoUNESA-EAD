@@ -9,7 +9,7 @@ int main() {
 
 /* Perguntando ao Usuario os atributos da Carta 1: */
 
-    printf("Vamos começar a inserir a Carta 1 do Super Trunfo: \n");
+    printf("Vamos começar inserindo a Carta 1 do Super Trunfo: \n");
     printf("A Carta refere-se a qual o Estado? \n");
     scanf("%s", estado1);
 
